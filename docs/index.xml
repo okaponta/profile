@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Friend NG</title>
+    <link>https://okaponta.github.io/about-me/</link>
+    <description>Recent content on Hello Friend NG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 21 Sep 2021 03:12:32 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init</title>
+      <link>https://okaponta.github.io/about-me/post/init/</link>
+      <pubDate>Tue, 21 Sep 2021 03:12:32 +0900</pubDate>
+      
+      <guid>https://okaponta.github.io/about-me/post/init/</guid>
+      <description>First Post Hello, World!!</description>
+    </item>
+    
+  </channel>
+</rss>
