@@ -2,18 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://okaponta.github.io/about-me/</loc>
+    <loc>https://okaponta.github.io/about-me/post/init/</loc>
     <lastmod>2021-09-21T03:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://okaponta.github.io/about-me/post/init/</loc>
+    <loc>https://okaponta.github.io/about-me/</loc>
     <lastmod>2021-09-21T03:12:32+09:00</lastmod>
   </url><url>
     <loc>https://okaponta.github.io/about-me/post/</loc>
     <lastmod>2021-09-21T03:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://okaponta.github.io/about-me/blog/</loc>
-  </url><url>
-    <loc>https://okaponta.github.io/about-me/series/</loc>
+    <loc>https://okaponta.github.io/about-me/categories/</loc>
   </url><url>
     <loc>https://okaponta.github.io/about-me/tags/</loc>
   </url>

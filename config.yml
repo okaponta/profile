@@ -1,0 +1,126 @@
+baseURL: "https://okaponta.github.io/about-me/"
+canonifyurls: true
+publishDir : "docs"
+title: Okaponta
+paginate: 5
+theme: PaperMod
+
+enableEmoji : true
+enableRobotsTXT: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+#    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: ExampleSite
+    description: "ExampleSite description"
+    keywords: [Blog, Portfolio, PaperMod]
+    author: Kohei Okamoto
+    # author: ["Me", "You"] # multiple authors
+    images: ["profile.jpg"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "Thinking_Face_Emoji_large.png"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "🏠 Home"
+        # icon: Thinking_Face_Emoji_large.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: "I'm Kohei 😎"
+        subtitle: "a.k.a. Okaponta, a software engineer."
+        #imageUrl: "https://avatars.githubusercontent.com/u/59508678?v=4"
+        imageUrl: "profile.jpg"
+        imageWidth: 200
+        imageHeight: 200
+        imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/okaponta_"
+        - name: github
+          url: "https://github.com/okaponta"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/<path_to_repo>/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: blog
+          name: post
+          url: post
+          weight: 5
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: example
+          name: example.org
+          url: https://example.org
+          weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

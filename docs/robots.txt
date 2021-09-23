@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://okaponta.github.io/about-me/sitemap.xml
