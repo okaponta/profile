@@ -1,4 +1,4 @@
-baseURL: "https://okaponta.github.io/about-me/"
+baseURL: "https://okaponta.github.io/profile/"
 canonifyurls: true
 publishDir : "docs"
 title: Okaponta
@@ -32,7 +32,8 @@ params:
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: false
+    ShowCodeCopyButtons: true
+
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
@@ -45,10 +46,10 @@ params:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
         favicon: "Thinking_Face_Emoji_large.png"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon16x16: "Thinking_Face_Emoji_large.png"
+        favicon32x32: "Thinking_Face_Emoji_large.png"
+        apple_touch_icon: "Thinking_Face_Emoji_large.png"
+        safari_pinned_tab: "Thinking_Face_Emoji_large.png"
 
     label:
         text: "🏠 Home"
@@ -65,11 +66,9 @@ params:
         imageWidth: 200
         imageHeight: 200
         imageTitle: my image
-        buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+        # buttons:
+        #     - name: Posts
+        #       url: posts
 
     socialIcons:
         - name: twitter
@@ -99,13 +98,13 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: blog
-          name: post
-          url: post
+        - identifier: posts
+          name: posts
+          url: posts
           weight: 5
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: profile
+          name: profile
+          url: fixed/profile
           weight: 10
         - identifier: tags
           name: tags
