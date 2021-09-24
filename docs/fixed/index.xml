@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Okaponta</title>
-    <link>https://okaponta.github.io/profile/</link>
-    <description>Recent content on Okaponta</description>
+    <title>Fixeds on Okaponta</title>
+    <link>https://okaponta.github.io/profile/fixed/</link>
+    <description>Recent content in Fixeds on Okaponta</description>
     <image>
       <url>https://okaponta.github.io/profile/profile.jpg</url>
       <link>https://okaponta.github.io/profile/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Sep 2021 18:20:02 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Sep 2021 18:20:02 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/fixed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Profile</title>
       <link>https://okaponta.github.io/profile/fixed/profile/</link>
@@ -26,15 +26,6 @@
 Experiences 職歴とやってきたことの概要です。
  2016-2021 シンプレクス株式会社  開発者/テスター @ 為替のダークプール 何でも屋 @ 仮想通貨のディーリングシステム導入PJ 運用保守リーダー @ 上記プロダクト メンター @ 新人研修 スクラムメンバー @ 仮想通貨の自社プロダクト 開発リーダー @ Salesforceを用いた保険のフロント移行PJ   2021-現在 リクルート株式会社  開発者 @ オーダーエントリーシステム開発    Skills スキル概要です。
  OS  Win / Mac / Linux   Language  実務経験あり  Java TypeScript   お勉強中  Go Python     Other  AWSは結構使ってます 10人ほどのチームのマネジメント経験あり。ですが、今はやりたくないです。 AtCoder緑 TOEIC 950    Education 主に磁性錯体の研究をしていました。</description>
-    </item>
-    
-    <item>
-      <title>Init</title>
-      <link>https://okaponta.github.io/profile/posts/init/</link>
-      <pubDate>Tue, 21 Sep 2021 03:12:32 +0900</pubDate>
-      
-      <guid>https://okaponta.github.io/profile/posts/init/</guid>
-      <description>First Post Hello, World!!</description>
     </item>
     
   </channel>
