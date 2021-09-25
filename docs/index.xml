@@ -9,7 +9,20 @@
       <link>https://okaponta.github.io/profile/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Sep 2021 18:20:02 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Sep 2021 23:12:10 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Works</title>
+      <link>https://okaponta.github.io/profile/fixed/works/</link>
+      <pubDate>Sat, 25 Sep 2021 23:12:10 +0900</pubDate>
+      
+      <guid>https://okaponta.github.io/profile/fixed/works/</guid>
+      <description>To Be Updated&amp;hellip;
+Qiita 細々アウトプットはQiitaにて行っています。
+ https://qiita.com/okaponta_  Zenn まとまったナレッジはZennにて行っています。
+ https://zenn.dev/okaponta  Translation 翻訳した記事です。
+Martin Fowler&amp;rsquo;s Bliki  境界づけられたコンテキスト DDDにおける集約  Presentation  2020/02/16 Object Oriented Conference 2020/06/26 オブジェクト指向LT会  </description>
+    </item>
+    
     <item>
       <title>Profile</title>
       <link>https://okaponta.github.io/profile/fixed/profile/</link>
@@ -20,22 +33,33 @@
 ソフトウェアエンジニアやってる@Okapontaです。
 職歴、技術セット、大学などは下の方に記載しています。
 もともとはPMになりたいという思考だったのですが、社会人4年目にてスクラム開発で行っていたPJにてエンジニアの楽しさに気づき、そこからはエンジニア思考で現在に至ります。
-インフラからフロントまでなんでもやりますが、サーバーサイドが一番経験もあるのと得意です。
+インフラからフロントまでなんでもやりますが、サーバーサイドが一番経験もあります。
 現在の目標は、最強💪のソフトウェアエンジニアです。笑。
-お仕事の相談はtwitterかメールにて待ってます^^
+お仕事の相談はtwitterかメールにて待ってます🙇
 Experiences 職歴とやってきたことの概要です。
- 2016-2021 シンプレクス株式会社  開発者/テスター @ 為替のダークプール 何でも屋 @ 仮想通貨のディーリングシステム導入PJ 運用保守リーダー @ 上記プロダクト メンター @ 新人研修 スクラムメンバー @ 仮想通貨の自社プロダクト 開発リーダー @ Salesforceを用いた保険のフロント移行PJ   2021-現在 リクルート株式会社  開発者 @ オーダーエントリーシステム開発    Skills スキル概要です。
- OS  Win / Mac / Linux   Language  実務経験あり  Java TypeScript   お勉強中  Go Python     Other  AWSは結構使ってます 10人ほどのチームのマネジメント経験あり。ですが、今はやりたくないです。 AtCoder緑 TOEIC 950    Education 主に磁性錯体の研究をしていました。</description>
+ 2016-2021 シンプレクス株式会社  開発者/テスター @ 為替のダークプール 何でも屋 @ 仮想通貨のディーリングシステム導入PJ 運用保守リーダー @ 上記プロダクト メンター @ 新人研修 スクラムメンバー @ 仮想通貨の自社プロダクト 開発リーダー @ Salesforceを用いた保険のフロント移行PJ   2021-現在 株式会社リクルート  開発者 @ オーダーエントリーシステム開発    Skills スキル概要です。詳細版については今後記載予定です。
+ OS  Win / Mac / Linux   Language  実務経験あり  Java TypeScript その他ちまちまと   お勉強中  Go Python     Other  AWSは結構使ってます 10人ほどのチームのマネジメント経験あり。ですが、今はあまりやりたくないです。 AtCoder 緑 TOEIC 950    Education 主に磁性錯体の研究をしていました。</description>
     </item>
     
     <item>
-      <title>Init</title>
+      <title>ブログを開設してみた</title>
       <link>https://okaponta.github.io/profile/posts/init/</link>
       <pubDate>Tue, 21 Sep 2021 03:12:32 +0900</pubDate>
       
       <guid>https://okaponta.github.io/profile/posts/init/</guid>
-      <description>First Post Hello, World!!</description>
+      <description>動機 新卒で入社してから、もっぱらサーバー側の開発に携わってきました。 しかし、エンジニアで生活するにあたって、Webとかフロントとかできないことへのコンプレックスが一定あります😅
+その克服と、今後個人としてキャリアを伸ばす上でも成果などをまとめておけるとも思ったので今回作るに至りました💪
+技術選定など ホームページを作るのに、サーバーとかドメインとか用意するのはお金かかりそうだし、無料でできるGithub Pagesがいいのかなぁとかぼんやり考えてました。
+静的サイトについて色々調べてみると、Hugoを使うとわりかし簡単に作れるらしい。 正直作ったこともないのでよくわからず、とりあえずHugo + Github Pagesで作ることにしました。
+こんな適当でいいのかとか思いますが、まあ趣味の一環なので手を動かして楽しむこと重視でエイヤで決めちゃいました💦
+公開の流れ 今の構成だと以下の流れで公開してます。
+ ローカルでコンテンツ作成 ローカルビルド githubにプッシュ  ローカルビルドも0.1秒とかで終わるのでたいしてストレスでもないですが、気が向いたら自動化しとこうと思います。 CircleCIとかNetlifyとかGithub Actionsとかですかね。
+感想など めっちゃ簡単に作れてビックリしてます。。 コンテンツとか作らずに適当に公開とかであれば本当にすぐできちゃいます。
+あとから調べたらホスト先はNetlify使うのが簡単みたいですね。 特に困ってないのでしならくはGithub Pagesを使うつもりですが、今後使う機会があれば使ってみたいな。
+あと、Hugoはマークダウンで記事書けちゃうんでWebとかフロントについては何も知見得れませんでした笑
+簡単すぎるのも罪ですね🤔</description>
     </item>
+    
     
   </channel>
 </rss>
