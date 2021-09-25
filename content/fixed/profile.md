@@ -15,7 +15,7 @@ draft: false
 
 現在の目標は、最強💪のソフトウェアエンジニアです。笑。
 
-お仕事の相談はtwitterかメールにて待ってます^^
+お仕事の相談はtwitterかメールにて待ってます🙇
 
 ## Experiences
 
@@ -41,13 +41,14 @@ draft: false
    - 実務経験あり
      - Java
      - TypeScript
+     - その他ちまちまと
    - お勉強中
      - Go
      - Python
  - Other
    - AWSは結構使ってます
-   - 10人ほどのチームのマネジメント経験あり。ですが、今はやりたくないです。
-   - AtCoder緑
+   - 10人ほどのチームのマネジメント経験あり。ですが、今はあまりやりたくないです。
+   - AtCoder 緑
    - TOEIC 950
 
 ## Education
