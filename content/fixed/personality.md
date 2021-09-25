@@ -2,6 +2,9 @@
 title: "Personality"
 date: 2021-09-24T19:15:18+09:00
 draft: true
+hideMeta: true
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
 ---
 
 幼い頃から不合理などが好きじゃなく、「なぜ？」に答えを見つけるのが好きでした。小さい頃海外に住んでた影響か分かりませんが、人の気持ちがよく分かりませんでした。国語がわからず、数学が楽しいみたいな高校生でした。

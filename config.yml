@@ -106,10 +106,16 @@ menu:
           name: profile
           url: fixed/profile
           weight: 10
+        - name: works
+          url: fixed/works
+          weight: 15
+        - name: search
+          url: search/
+          weight: 20
         - identifier: tags
           name: tags
-          url: /tags/
-          weight: 20
+          url: tags/
+          weight: 25
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
