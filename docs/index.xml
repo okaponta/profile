@@ -9,7 +9,20 @@
       <link>https://okaponta.github.io/profile/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Sep 2021 23:12:10 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Oct 2021 08:30:00 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021年10月〜毎日ACチャレンジ〜</title>
+      <link>https://okaponta.github.io/profile/posts/2021-10-challenge/</link>
+      <pubDate>Sun, 31 Oct 2021 08:30:00 +0900</pubDate>
+      
+      <guid>https://okaponta.github.io/profile/posts/2021-10-challenge/</guid>
+      <description>この企画の説明 AtCoderで適当な難易度の問題をとにかく毎日解く。
+今Goを勉強し始めなので、文法の定着もかねてGoで実装する予定。
+ずーっと放置してたAtCoderもこれを機にきちんと取り組みたいなというお気持ち
+結果 🎉達成🎉
+ 灰レート +40AC 茶レート +9AC 緑レート +7AC  感想など  技術的なおはなし  Goの文法は結構スラスラかけるようになっていた そもそもの競プロ力が低い。ので、いきなり緑レートの問題とか解くのではなく、勉強する傍かんたんな問題のACを重ねる方が効率が良い気がした。 競プロの勉強という観点ではPythonかC++かRustがいいと思う。サンプルコードたくさんある。   毎日ACできたことよりも、コードを書くことを習慣化できたのがよかった。  エンジニアでいるうちはまいにちコミットするのを習慣化していきたい   1ヶ月チャレンジ、ほどよくきついけど頑張れば乗り切れるのでこれからも続けていきたい。  成果物 https://github.com/okaponta/atcoder-go</description>
+    </item>
+    
     <item>
       <title>Works</title>
       <link>https://okaponta.github.io/profile/fixed/works/</link>
