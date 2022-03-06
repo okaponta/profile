@@ -16,7 +16,7 @@ draft: false
 
 サマリとしては以下のようになりました。
 
-![average](/2022/2_1day_schedule.png)
+![average](/time/2022/01/1day_schedule.png)
 
  - 習慣化できてよかった・・・！
  - 仕事の平均時間
@@ -37,11 +37,11 @@ draft: false
 
 ### 平日
 
-![weekday](/2022/3_weekday_schedule.png)
+![weekday](/time/2022/01/weekday_schedule.png)
 
 ### 休日
 
-![weekend](/2022/4_weekend_schedule.png)
+![weekend](/time/2022/01/weekend_schedule.png)
 
  - 時間を記録することで無駄な時間を減らそうという意識が働いた
    - これでも無駄な時間が結構減っている気がする
