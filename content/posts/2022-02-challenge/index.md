@@ -29,11 +29,11 @@ draft: false
 
 ### 平日
 
-![weekday](/time/2022/02/weekday_schedule.png)
+![weekday](weekday_schedule.png)
 
 ### 休日
 
-![weekend](/time/2022/02/weekend_schedule.png)
+![weekend](weekend_schedule.png)
 
  - 就寝の平均時間
    - 平日 2:17

@@ -22,11 +22,11 @@ draft: false
 
 ### 平日
 
-![weekday](/time/2022/03/weekday_schedule.png)
+![weekday](weekday_schedule.png)
 
 ### 休日
 
-![weekend](/time/2022/03/weekend_schedule.png)
+![weekend](weekend_schedule.png)
 
 もう少し個人開発の時間とりたいですね。
 休日の睡眠が多いのは寝込んでた日があったからですね、、健康大事。
