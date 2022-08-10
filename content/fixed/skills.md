@@ -27,6 +27,11 @@ ShowPostNavLinks: false
 新卒の会社で自社フレームワーク、二社目ではSpringBootにて開発。  
 性能チューニングとかも経験あり。
 
+### Kotlin
+
+サーバーサイドとしてKotlinを使ってます。  
+実務ではSpringBootで使っています。
+
 ### JavaScript(TypeScript)
 
 Salesforceのフロント開発にて触ったのが真面目に触った最初の案件でした。  

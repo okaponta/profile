@@ -43,7 +43,8 @@ ShowPostNavLinks: false
  - Language
    - 実務経験あり
      - Java
-     - js(TypeScript)
+     - Kotlin
+     - TypeScript
      - その他ちまちまと
    - お勉強中
      - Rust
@@ -52,7 +53,7 @@ ShowPostNavLinks: false
  - Other
    - AWSは結構使ってます
    - 10人ほどのチームのマネジメント経験あり。ですが、今はあまりやりたくないです。
-   - AtCoder 緑(Rust)
+   - AtCoder 水(Rust)
    - TOEIC 950
 
 ## Education
