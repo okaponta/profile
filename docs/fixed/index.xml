@@ -33,6 +33,8 @@ Martin Fowler&amp;rsquo;s Bliki  境界づけられたコンテキスト DDDに�
 OS  Win  新卒で入った会社で使用。Windows版Excelのショートカットは無駄に詳しいです笑   Mac  現職で使用。プライベートも基本的にはこっち。   Linux  アプリケーションをLinux上で動くようにする部分などを新卒のときは行った。 また、デプロイが手動だったので手順書とかたくさん作りました・・・    Language Java 新卒の会社の研修ではじめて触ったプログラミング言語です。実務経験としては一番長いです。
 新卒の会社で自社フレームワーク、二社目ではSpringBootにて開発。
 性能チューニングとかも経験あり。
+Kotlin サーバーサイドとしてKotlinを使ってます。
+実務ではSpringBootで使っています。
 JavaScript(TypeScript) Salesforceのフロント開発にて触ったのが真面目に触った最初の案件でした。
 二社目ではReact/Reduxでもう少し本格的に画面の作り込みなどを行うようになりました。
 趣味でつくったものたち
@@ -44,9 +46,7 @@ JavaScript(TypeScript) Salesforceのフロント開発にて触ったのが真�
 趣味で作ったものたち↓
  https://github.com/okaponta/slack-kintai https://github.com/okaponta/tweeter https://github.com/okaponta/bluebench-cli  Infrastructure AWS ひととおりは触ったことあると思います。
 VPC, EC2, ECS, S3, RDS, CloudFront, Route53, Lambda, Athena, Kinesis, CloudWatch, EventBridge, CodeDeploy, CloudFormation, AmazonConnectなどなど
-terraform AWSのリソース管理に使用した経験あり。
-個人のリソースもterraformに移行したい・・・
-Others 競プロ 趣味ではじめました！AtCoderのコンテストに出場したりしてます。</description>
+terraform AWSのリソース管理に使用した経験あり。</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@ Others 競プロ 趣味ではじめました！AtCoderのコンテストに出�
 お仕事の相談はtwitterかメールにて待ってます🙇
 Experiences 職歴とやってきたことの概要です。
  2016-2021 シンプレクス株式会社  開発者/テスター @ 為替のダークプール 何でも屋 @ 仮想通貨のディーリングシステム導入PJ  要件定義/客先説明/開発/運用などなど   運用保守リーダー @ 上記プロダクト メンター @ 新人研修 スクラム開発チーム @ 仮想通貨の自社プロダクト 開発リーダー @ Salesforceを用いた保険のフロント移行PJ   2021-現在 株式会社リクルート  開発者 @ オーダーエントリーシステム開発    Skills スキル概要です。詳細版についてはこちらをご覧ください。
- OS  Win / Mac / Linux   Language  実務経験あり  Java js(TypeScript) その他ちまちまと   お勉強中  Rust Go Python     Other  AWSは結構使ってます 10人ほどのチームのマネジメント経験あり。ですが、今はあまりやりたくないです。 AtCoder 緑(Rust) TOEIC 950    Education 主に磁性錯体の研究をしていました。</description>
+ OS  Win / Mac / Linux   Language  実務経験あり  Java Kotlin TypeScript その他ちまちまと   お勉強中  Rust Go Python     Other  AWSは結構使ってます 10人ほどのチームのマネジメント経験あり。ですが、今はあまりやりたくないです。 AtCoder 水(Rust) TOEIC 950    Education 主に磁性錯体の研究をしていました。</description>
     </item>
     
   </channel>
