@@ -9,7 +9,32 @@
       <link>https://okaponta.github.io/profile/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Mar 2023 18:00:05 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/tags/annual/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Dec 2023 18:00:05 +0900</lastBuildDate><atom:link href="https://okaponta.github.io/profile/tags/annual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年振り返り 〜今年もいい年〜</title>
+      <link>https://okaponta.github.io/profile/posts/2023-retro/</link>
+      <pubDate>Sat, 30 Dec 2023 18:00:05 +0900</pubDate>
+      
+      <guid>https://okaponta.github.io/profile/posts/2023-retro/</guid>
+      <description>1年の振り返りをしようと思います。
+今年は育児がいっぱいいっぱいでしたが、最後の方は少し慣れてきて余裕も生まれてきました。
+意識としても父親としての自覚がすっかり身についた感があります。
+また、なんか仕事も一定楽しく、コントロールできる範囲が広がったことで心の余裕みたいな部分も増えた気がします。
+毎日コードをコミットする習慣、今年はきちんと続けられました。コミットログ漏れなく埋まると気持ちいいっすね。 仕事 去年からは少し毛色が変わって、チームがどうのこうのと考える時間が増えました。
+1-6月 チームのリーダーとして大きな裁量をもって案件を進めていました。
+正直、最初は自身のスキル面での成長では鈍化しているかなとも思っていました。
+が、途中からはチームがどんどん成長していいチームを作れた自負があります。
+チーム育成みたいな部分でも結構色々チャレンジできてよかったなぁと思います。
+7-12月 大きい案件で開発リードを行いました。
+リードといいつつも自分でも結構手を動かすことができたのがすごくよかったなと思ってます。
+社内のリーダー像に新しい形を提示したいなと思っていて、自分は手を動かすところにこだわりを持ちたいなと思っています。
+プライベート 新しく握力を鍛える趣味をはじめました。握力系で54.1kgが最高です。
+競プロでは青コーダーになれて、より一層アルゴリズム力が増した気がします。もうちょい続けるつもりですが、ここから先はなかなか大変そう。
+感想など 今年も、プライベートも仕事も充実した一年にできました。
+仕事起因のストレスもプライベート起因のストレスも多少はもちろんありますが、一般的にはめちゃくちゃ低く抑えられたのが何はともあれよかったと思います。
+育児にも慣れてきたので、来年はもう少しインプットもアウトプットも増やせるように頑張っていこうと思います。</description>
+    </item>
+    
     <item>
       <title>2022年振り返り 〜パパになりました〜</title>
       <link>https://okaponta.github.io/profile/posts/2022-retro/</link>
